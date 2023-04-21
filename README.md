@@ -13,7 +13,7 @@ I am a French full-stack web developer passionate about technology and always se
 
 In 2018, I founded my web design micro-enterprise, which has allowed me to put my web development skills into practice and contribute to the creation of attractive and functional websites for my clients.
 
-On my GitHub account, you will find my recent projects and contributions to various open-source projects. I am also always open to collaborating with other developers to discover new ideas and learn new techniques. So don't hesitate to take a look at my profile and contact me if you have any projects in mind!  
+So don't hesitate to take a look at my profile and contact me if you have any projects in mind!  
   
 
 <br/>  
