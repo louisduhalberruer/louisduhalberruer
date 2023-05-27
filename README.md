@@ -11,9 +11,18 @@
 ### Unleashing creativity as a self-taught web developer  
 I am a French full-stack web developer passionate about technology and always seeking new challenges. With nine years of experience in computer science, I have learned to explore new technologies through self-education. Web development has become a true passion for me as it allows me to unleash my creativity.
 
-In 2018, I founded my web design micro-enterprise, which has allowed me to put my web development skills into practice and contribute to the creation of attractive and functional websites for my clients.
+In 2018, I founded my web design business, which has allowed me to put my web development skills into practice and contribute to the creation of attractive and functional websites for my clients.
 
-So don't hesitate to take a look at my profile and contact me if you have any projects in mind!  
+I'm specialized with theses technologies :
+- Development : Vue.js, Nuxt, TypeScript, TailwindCSS, Fastify
+- CMS : Directus, Strapi
+- Data : MongoDB, Firestore, PostgreSQL, Redis
+- Design : Figma, Sketch, Affinity suite
+- System : UNIX/Linux, Docker, Proxmox
+
+I worked on large project that using micro-services architecture, working on video streaming, low-latency apps, kiosk apps, etc.
+
+So don't hesitate to take a look at my profile and contact me if you have any projects in mind!
   
 
 <br/>  
